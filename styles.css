@@ -1,3 +1,23 @@
 body {
     background-color: azure;
+    font-family: "Montserrat", serif;
+    text-align: center;
 }
+
+.subtitle {
+    color: darkmagenta;
+    font-weight: 700;
+    font-family: "Roboto", serif;
+}
+
+#red {
+    color: red;
+}
+
+img {
+    display: block;
+    width: 100%;
+    max-width: 500px;
+    margin: 10px auto;
+}
+
